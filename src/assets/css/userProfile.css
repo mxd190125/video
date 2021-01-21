@@ -1,0 +1,24 @@
+.sub-photo-div {
+    margin-top: 10px;
+  }
+  .sub-photo-span{
+    color: #d4237a;
+  }
+  .sub-photo{
+    width: 300px;
+  }
+  .sub-button{
+    margin-top: 10px;
+    background-color: #d4237a;
+    border-color: #d4237a;
+  }
+  #upload-video{
+    margin-top: 10px;
+  }
+  .mod-pass{
+    width: 200px;
+    margin-top: 10px;
+  }
+  .mod-input{
+    margin-top: 10px;
+  }

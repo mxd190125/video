@@ -1,0 +1,44 @@
+video{
+    width: 500px;
+    height: 300px;
+}
+.opt-div{
+    width: 500px;
+    border-bottom: 1px solid #707070;
+}
+.view-num{
+    float: right;
+    color: #d4237a;
+    font-weight: bold
+}
+.favor , .good{
+    margin-right: 10px;
+}
+.favor{
+    width: 35px;
+}
+.good{
+    width: 30px;
+}
+.dis-div{
+    margin-top: 10px;
+    width: 500px;
+}
+.sub-dis-btn{
+    background-color: #d4237a;
+    border: 1px solid #d4237a;
+    margin-top: 9px;
+    font-weight: 700;
+}
+.dis-item{
+    margin-top: 8px;
+}
+.dis-photo{
+    width: 35px;
+    height: 35px;
+    border-radius: 35px;
+}
+.dis-text{
+    position: absolute;
+    line-height: 35px;
+}
